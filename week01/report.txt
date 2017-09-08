@@ -1,0 +1,8 @@
+Task 01
+
+- clone github repository
+- create each week folders
+- create and remove files
+- create file using text editor vi
+- do push and pull repository
+
