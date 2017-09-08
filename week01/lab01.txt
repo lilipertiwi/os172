@@ -1,1 +1,3 @@
 /home/fasilkom/mahasiswa/l/lili.pertiwi/os172/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 08 Sep 2017 at 10:49:53
