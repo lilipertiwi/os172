@@ -1,3 +1,8 @@
 #ostutorial
 #lilipertiwi@github.com
 
+Why Study OS?
+- to understand how computer system works
+- to understand how programs work
+- to solve computerization problems easier
+- to use hardware efficiently
